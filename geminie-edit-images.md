@@ -39,12 +39,12 @@ Create a high-resolution, studio-quality product photo of a luxury leather handb
   </tr>
   <tr>
     <td style="word-wrap: break-word;">
-A photorealistic cinematic image of a man (uploaded image) sitting casually on the shoulder of a giant mecha style Gundam the Dragon from the anime Gundam-G. The man wears a body fit armor in color combination similar to the Gundam. Sitting in a relaxing pose and slightly muscular. The mecha is inspired by Gundam the Dragon in a green main color with minimal gold. It features a battle damaged Gundam.The background shows a technologically advanced city during a sunset hour, with soft shadows and atmospheric lighting. The buildings in the distance are blurred for depth of field. The scene is captured from a high-angle perspective to emphasize the massive scale difference between the man and the Gundam. Scale the person in a realistic true size of a gundam pilot.
-
-Aspect ratio: 2:3, photorealistic, cinematic film-quality scene.
+       <b>Change Background Setting</b>
+    <br/>
+    Replace the background with a luxury boutique interior softly lit with warm tones, keeping the focus on the handbag.
     </td>
     <td>
-    <img src="images/gundam.jpg" width="1900">
+    <img src="images/bag-bg.png" width="1900">
     </td>
   </tr>
   <tr>
