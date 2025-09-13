@@ -100,7 +100,9 @@ Create an ultra-realistic 4K image of a man (see photo) wearing a yellow T-shirt
 
   <tr>
     <td style="word-wrap: break-word;">
-A magical forest at night with glowing mushrooms, fireflies, and a small sparkling stream reflecting moonlight. Towering twisted trees with dense foliage create a sense of depth, while mist rises from the ground. Woodland creatures peek from behind rocks and logs, adding whimsy. Soft lighting, subtle reflections in the water, and detailed textures give a dreamy, enchanted atmosphere.
+A photorealistic cinematic image of a man (uploaded image) sitting casually on the shoulder of a giant mecha style Gundam the Dragon from the anime Gundam-G. The man wears a body fit armor in color combination similar to the Gundam. Sitting in a relaxing pose and slightly muscular. The mecha is inspired by Gundam the Dragon in a green main color with minimal gold. It features a battle damaged Gundam.The background shows a technologically advanced city during a sunset hour, with soft shadows and atmospheric lighting. The buildings in the distance are blurred for depth of field. The scene is captured from a high-angle perspective to emphasize the massive scale difference between the man and the Gundam. Scale the person in a realistic true size of a gundam pilot.
+
+Aspect ratio: 2:3, photorealistic, cinematic film-quality scene.
     </td>
     <td>
-      <img src="images/sample5.png"
+    <img src="images/simpson.jpg" width="1900">
