@@ -91,7 +91,7 @@ Realistic cinematic quality, but the characters retain their vibrant cartoon col
 
   <tr>
     <td style="word-wrap: break-word;">
-An astronaut floating in deep space surrounded by planets, nebulae, and stars. The Earth is visible in the distance, reflecting sunlight. The spacesuit is highly detailed with reflective surfaces and intricate textures. Tiny space debris floats nearby, with soft shadows cast by distant celestial bodies. A dramatic cosmic light bathes the scene, emphasizing scale, isolation, and depth in a cinematic composition.
+Create an ultra-realistic 4K image of a man (see photo) wearing a yellow T-shirt with the Simpson logo, blue shorts and white On Cloud sneakers, sitting on the couch with the Simpons. Use Canon EOS R camera with a 50mm f/1.8 lens, f/2.2 aperture, 1/200s shutter speed, ISO 100 and natural light, full body, hyperrealistic photography, cinematic, cinema, hyper-detailed, ultra HD, color correction, ultra HDR, color calibration, 8k. Bottom right corner write "BY: ..." ». 
     </td>
     <td>
       <img src="images/sample4.png" alt="Astronaut in Space" width="300">
