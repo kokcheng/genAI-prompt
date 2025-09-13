@@ -23,7 +23,7 @@ Using the nano-banana model, create a 1/7 scale commercialized figurine of the c
 Please turn this photo into a figure. Behind it, there should be a model packaging box with the character from this photo printed on it. In front of the box, on a round plastic base, place the figure version of the photo I gave you. I'd like the PVC material to be clearly represented. It would be even better if the background is indoors. The PVC material figure will be standing very cool in style next to a highly detail realistic toy car model - Honda Stepwagon Spada E:HEV. Black / purple in colour
     </td>
     <td>
-     <img src="images/figurine" width="1900">
+     <img src="images/figurine.png" width="1900">
     </td>
   </tr>
 
