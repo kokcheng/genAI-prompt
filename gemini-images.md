@@ -19,10 +19,11 @@ Photorealistic group selfie featuring [use uploaded image of the user] holding u
 
   <tr>
     <td style="word-wrap: break-word;">
-A sprawling futuristic city at night under a neon-lit sky, with towering skyscrapers covered in holographic billboards and flying vehicles zipping through the air. Streets are wet from rain, reflecting multicolored neon lights, while pedestrians in cyberpunk fashion walk beneath glowing umbrellas. Drones hover in the sky performing tasks, and distant bridges connect skyscrapers. Fog and atmospheric perspective create depth and cinematic mood, with intricate reflections and subtle lens flares.
+Using the nano-banana model, create a 1/7 scale commercialized figurine of the characters in the picture, in a realistic style, in a real environment. The figurine is placed on a computer desk. The figurine has a round transparent acrylic base, with no text on the base. The content on the computer screen is the Zbrush modeling process of this figurine. Next to the computer screen is a BANDAI-style toy packaging box printed with the original artwork. The packaging features two-dimensional flat illustrations.
+Please turn this photo into a figure. Behind it, there should be a model packaging box with the character from this photo printed on it. In front of the box, on a round plastic base, place the figure version of the photo I gave you. I'd like the PVC material to be clearly represented. It would be even better if the background is indoors. The PVC material figure will be standing very cool in style next to a highly detail realistic toy car model - Honda Stepwagon Spada E:HEV. Black / purple in colour
     </td>
     <td>
-      <img src="images/sample2.png" alt="Cyberpunk City" width="300">
+     <img src="images/figurine" width="1900">
     </td>
   </tr>
 
