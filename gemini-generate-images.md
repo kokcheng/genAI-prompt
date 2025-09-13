@@ -54,7 +54,7 @@ Use the nano-banana model to create a 1/7 scale model, in a realistic styie and 
 without any text.On the computer screen, display the ZBrush modeling process of the figure.Next to the computer screen, place a TAMIYA-style toy packaging box printedwith the original artwork.
     </td>
     <td>
-     <img src="images/figurine2.png" width="1900">
+     <img src="images/figurine2.jpg" width="1900">
     </td>
   </tr>
   <tr>
