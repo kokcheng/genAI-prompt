@@ -13,7 +13,7 @@
 A hyperrealistic 3D digital artwork of a man running out of a giant smartphone screen. The phone displays a Facebook profile page exactly as shown in the screenshot, with profile photo, cover photo, and visible text. The phone screen is a realistic water mosaic, as if made of wavy water. Water splashes dynamically around his legs and the ground, creating a strong sense of motion. The man is wearing a white hoodie, blue shorts, Salomon slippers, and headphones around his neck. The background is minimalist gray, enhancing the contrast of the water effect and screen content. Shadows and reflections are rendered in fine detail, with subtle motion blur around the moving figure.
     </td>
     <td>
-      <img src="images/sample1.png" alt="Hyperrealistic Man Phone" width="400">
+      <img src="images/sample1.png" alt="Hyperrealistic Man Phone" width="500">
     </td>
   </tr>
 
