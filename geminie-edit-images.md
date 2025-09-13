@@ -29,10 +29,11 @@ Create a high-resolution, studio-quality product photo of a luxury leather handb
   <tr>
     <td style="word-wrap: break-word;">
     <b>Combine Image</b>
+    <br/>
     Place the handbag naturally in the hand of the uploaded person, making sure that the bag is in the right proportion to the uploaded person.
     </td>
     <td>
-      <img src="images/simpson.jpg" alt="Astronaut in Space" width="1900">
+      <img src="images/bag-person.png" alt="Astronaut in Space" width="1900">
     </td>
   </tr>
   <tr>
