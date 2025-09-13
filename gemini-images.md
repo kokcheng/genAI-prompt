@@ -29,7 +29,38 @@ Please turn this photo into a figure. Behind it, there should be a model packagi
 
   <tr>
     <td style="word-wrap: break-word;">
-A cozy reading nook in a small library, with sunlight filtering through rain-streaked windows. A fluffy cat sleeps atop a stack of books, next to steaming cups of coffee and scattered sketches. Warm ambient lamp light illuminates the wooden floor and soft rug. Details include textured pages, leather-bound books, delicate shadows, and subtle reflections on the window, creating a peaceful and inviting atmosphere.
+Prompt: Realistic style cartoon group selfie detailed generation description:
+
+The image is a highly realistic, exquisite group selfie with vibrant colors and natural, authentic lighting, combining a real person with famous cartoon characters.
+
+Main character (using the person from the user's uploaded photo):
+Squatting at the very front of the frame, smiling brightly and naturally, with a happy expression. Their right hand is holding up a smartphone, clearly at a selfie angle, slightly turned but with their face directly facing the phone's camera.
+
+Cartoon characters (all surrounding the main character, squeezing in from behind, all facing the camera together):
+
+Mickey Mouse: Standing directly behind the main character, head slightly extended forward, face close to the main character's side profile, cheerfully making a V-sign, with prominent ears that stand out.
+
+Minnie Mouse: Leaning closely beside Mickey Mouse, body leaning forward towards the camera, smiling and making a heart shape with her hands.
+
+Doraemon: Happily standing behind the main character on the left side, head peeking out, round face close to the other characters, with a big smile.
+
+Pikachu: Jumping to the area near the main character's right shoulder, face close to the camera, waving its paws, with an adorable expression.
+
+Hello Kitty: Behind the main character on the left, head slightly tilted up towards the camera, with a small, smiling wave.
+
+Donald Duck: Tucked in next to Pikachu, with a prominent beak, a comical expression, and his wings also squeezed into the frame as much as possible.
+
+Mario: Making a victory sign, standing on the far right, with his head turned towards the group and the main character's face towards the camera.
+
+Details and Scene:
+All characters are completely and tightly clustered around the main character (no spreading out), ensuring that every face fits within the front phone's wide-angle selfie lens, with faces close to each other but not overlapping.
+Each character's expression is natural, exaggerated, and has its own distinct style (e.g., Mickey's big laugh, Pikachu's cuteness, Donald's humor, etc.), all displaying playful poses that are relaxed and suited for a selfie atmosphere.
+The lighting is bright, colors are rich and saturated, with clear layers of detail on faces, clothing, and other elements, creating a cinematic quality.
+The background is a sunny city square or a theme park, with natural depth of field that doesn't steal focus; the main subject is the faces of the selfie group.
+
+Overall Atmosphere:
+Full of youthful vitality, with intimate character interaction, giving a strong sense of gathering and fun, as if it's a joyful selfie moment where fantasy and reality merge!
+Realistic cinematic quality, but the characters retain their vibrant cartoon colors and unique charm.
     </td>
     <td>
       <img src="images/sample3.png" alt="Reading Nook" width="300">
