@@ -2,6 +2,28 @@
 
 <p>This page showcases example prompts and their corresponding generated images using the <strong>Gemini app</strong>. Each row contains the full prompt alongside the generated output image.</p>
 
+<h2>🖼 Reference Images for Prompt Generation</h2>
+
+<p>The following 3 images were used together with the prompts below to generate the sample images.</p>
+
+<table>
+  <tr>
+    <th>Image 1</th>
+    <th>Image 2</th>
+    <th>Image 3</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/sample1.png" alt="Reference Image 1" width="250">
+    </td>
+    <td>
+      <img src="images/sample2.png" alt="Reference Image 2" width="250">
+    </td>
+    <td>
+      <img src="images/sample3.png" alt="Reference Image 3" width="250">
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <th style="width:70%; word-wrap: break-word;">Prompt</th>
