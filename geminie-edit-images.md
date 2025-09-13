@@ -19,6 +19,7 @@ Create a high-resolution, studio-quality product photo of a luxury leather handb
   <tr>
     <td style="word-wrap: break-word;">
     <b>Change Color</b>
+    <br/>
     Change the handbag color to a rich emerald green leather with gold accents.
     </td>
     <td>
