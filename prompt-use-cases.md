@@ -1,6 +1,6 @@
-# Copilot Use Cases and Prompts
+# Use Cases and Prompts
 
-This document provides practical examples of how you can use Copilot in different scenarios — as an editing assistant, a collaboration partner, a data analyst, or even a prompt engineering expert.  
+This document provides practical examples of how you can use GenAI in different scenarios — as an editing assistant, a collaboration partner, a data analyst, or even a prompt engineering expert.  
 
 ---
 
