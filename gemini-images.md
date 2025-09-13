@@ -110,11 +110,17 @@ Aspect ratio: 2:3, photorealistic, cinematic film-quality scene.
   <tr>
     <td style="word-wrap: break-word;">
 Generate avatars of this person with 9 different professional styles 3x3: extreme happiness, shocked, furious anger, crying dramatically, evil smirk, confused, completely calm, terrified, blank face. Clean white studio background, cinematic lighting. Change my outfit is black t-shirt. Label each expression. 
-
-Aspect ratio: 2:3, photorealistic, cinematic film-quality scene.
     </td>
     <td>
     <img src="images/faces.jpg" width="1900">
+    </td>
+  </tr>
+    <tr>
+    <td style="word-wrap: break-word;">
+Create a hyper-realistic 8K cinematic up-close photo of a man (use attached photo) performing an avatar bending stance outdoors. A swirling ring of all four elements—earth, air, water, and fire—surrounds him, forming a majestic dragon complete with claws, whiskers, glowing eyes, and dramatic twisting motion. The dragon appears alive, flowing from his hands with natural physics: cascading water with droplets, splashes, and refractions; swirling mist and wind gusts with dust and pebbles suspended in the air; blazing fire with sparks, embers, and heat distortion; rugged earth shards and rocks breaking apart mid-flight. The scene is set at golden hour with cinematic lighting, casting dramatic shadows and warm highlights across his face and body. Ultra-detailed textures, sharp focus on the man’s expression, with a shallow depth of field to make the elemental dragon appear grand and otherworldly, blending seamlessly into the environment. 
+    </td>
+    <td>
+    <img src="images/dragon.jpg" width="1900">
     </td>
   </tr>
 </table>
