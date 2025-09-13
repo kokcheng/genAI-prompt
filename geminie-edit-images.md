@@ -9,10 +9,10 @@
 
   <tr>
     <td style="word-wrap: break-word;">
-Photorealistic group selfie featuring [use uploaded image of the user] holding up a smartphone to take the photo. Surrounding him are the Justice League members — Superman, Batman, Wonder Woman, The Flash, Aquaman, and Cyborg — all smiling and posing casually like friends. The selfie has a fun, cheerful vibe, with everyone close together in frame, some characters leaning in playfully. Bright daylight, cinematic quality, natural colors, high detail."
+Create a high-resolution, studio-quality product photo of a luxury leather handbag. The bag is centered, sharp, and well-lit against a clean white background with soft shadows for an e-commerce look. Capture fine details such as the texture of the leather, stitching, and metallic hardware. Lighting should be even and professional, highlighting the bag’s shape and craftsmanship. The composition should be minimal and elegant, focusing entirely on the product.
     </td>
     <td>
-      <img src="images/superhero.jpg" width="1900">
+      <img src="images/bag.png" width="1900">
     </td>
   </tr>
 
