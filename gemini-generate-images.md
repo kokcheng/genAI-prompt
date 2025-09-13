@@ -115,9 +115,9 @@ The background shows a futuristic cityscape during a golden morning hour, with s
 Aspect ratio: 2:3, photorealistic, cinematic film-quality scene.
     </td>
     <td>
-    <img src="images/gundam.jpg" width="1900">
+    <img src="images/gundam2.jpg" width="1900">
       <br/>
-      <img src="images/gundam.jpg" width="1900">
+      <img src="images/gundam3.jpg" width="1900">
     </td>
   </tr>
   <tr>
