@@ -107,6 +107,17 @@ Aspect ratio: 2:3, photorealistic, cinematic film-quality scene.
     <img src="images/gundam.jpg" width="1900">
     </td>
   </tr>
+   <tr>
+    <td style="word-wrap: break-word;">
+A photorealistic cinematic image of the photo attach, sitting casually on the shoulder of a giant mecha styled after Gundam in a combat style. The attached photo man wears a futuristic armour suit to match Gundam. His pose is relaxed: one hand resting at her side, the other holding a glowing blue katana crackling with blue sparks, resting across his shoulder. His legs dangle freely at the edge.
+The mecha, inspired by classic Gundam designs, features the iconic white-blue-red-yellow color scheme, golden V-shaped antenna on its head, glowing eyes, and highly detailed mechanical panels.
+The background shows a futuristic cityscape during a golden morning hour, with soft shadows and atmospheric lighting. The buildings in the distance are blurred for depth of field. The scene is shot from a high-angle perspective to emphasize the massive scale difference between the woman and the Gundam.
+Aspect ratio: 2:3, photorealistic, cinematic film-quality scene.
+    </td>
+    <td>
+    <img src="images/gundam2.jpg" width="1900">
+    </td>
+  </tr>
   <tr>
     <td style="word-wrap: break-word;">
 Generate avatars of this person with 9 different professional styles 3x3: extreme happiness, shocked, furious anger, crying dramatically, evil smirk, confused, completely calm, terrified, blank face. Clean white studio background, cinematic lighting. Change my outfit is black t-shirt. Label each expression. 
