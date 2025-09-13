@@ -105,4 +105,4 @@ A photorealistic cinematic image of a man (uploaded image) sitting casually on t
 Aspect ratio: 2:3, photorealistic, cinematic film-quality scene.
     </td>
     <td>
-    <img src="images/gundam" width="1900">
+    <img src="images/gundam.jpg" width="1900">
