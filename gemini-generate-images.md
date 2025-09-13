@@ -115,12 +115,20 @@ Generate avatars of this person with 9 different professional styles 3x3: extrem
     <img src="images/faces.jpg" width="1900">
     </td>
   </tr>
-    <tr>
+  <tr>
     <td style="word-wrap: break-word;">
 Create a hyper-realistic 8K cinematic up-close photo of a man (use attached photo) performing an avatar bending stance outdoors. A swirling ring of all four elements—earth, air, water, and fire—surrounds him, forming a majestic dragon complete with claws, whiskers, glowing eyes, and dramatic twisting motion. The dragon appears alive, flowing from his hands with natural physics: cascading water with droplets, splashes, and refractions; swirling mist and wind gusts with dust and pebbles suspended in the air; blazing fire with sparks, embers, and heat distortion; rugged earth shards and rocks breaking apart mid-flight. The scene is set at golden hour with cinematic lighting, casting dramatic shadows and warm highlights across his face and body. Ultra-detailed textures, sharp focus on the man’s expression, with a shallow depth of field to make the elemental dragon appear grand and otherworldly, blending seamlessly into the environment. 
     </td>
     <td>
     <img src="images/dragon.jpg" width="1900">
+    </td>
+  </tr>
+  <tr>
+    <td style="word-wrap: break-word;">
+Create a hyper realistic 8K surreal cinematic selfie moment at the entrance of a luxury hotel in Saigon at night: me (the person from the uploaded photo, preserve the exact face and hairstyle) stands in the middle holding up a smartphone to take the selfie. Around me are Leonardo DiCaprio, Tom Cruise, Brad Pitt, and Daniel Craig, all leaning in casually, each dressed in their iconic elegant style, smiling naturally as if we just ran into each other by chance. They all look directly into the smartphone camera I am holding. The background shows the softly lit entrance of a luxury Saigon hotel at night, safe and cinematic, no signs or text. Hyperreal, cinematic style, shallow depth of field, fun atmosphere like an unplanned star encounter. 
+    </td>
+    <td>
+    <img src="images/celebrity.jpg" width="1900">
     </td>
   </tr>
 </table>
