@@ -13,7 +13,7 @@
 Photorealistic group selfie featuring [use uploaded image of the user] holding up a smartphone to take the photo. Surrounding him are the Justice League members — Superman, Batman, Wonder Woman, The Flash, Aquaman, and Cyborg — all smiling and posing casually like friends. The selfie has a fun, cheerful vibe, with everyone close together in frame, some characters leaning in playfully. Bright daylight, cinematic quality, natural colors, high detail."
     </td>
     <td>
-      <img src="images/superheor.jpg" width="1900">
+      <img src="images/superhero.jpg" width="1900">
     </td>
   </tr>
 
