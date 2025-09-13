@@ -48,7 +48,15 @@ Please turn this photo into a figure. Behind it, there should be a model packagi
      <img src="images/figurine.png" width="1900">
     </td>
   </tr>
-
+ <tr>
+    <td style="word-wrap: break-word;">
+Use the nano-banana model to create a 1/7 scale model, in a realistic styie and environment. Place the figure on a computer desk, using a circular transparent acrylic base
+without any text.On the computer screen, display the ZBrush modeling process of the figure.Next to the computer screen, place a TAMIYA-style toy packaging box printedwith the original artwork.
+    </td>
+    <td>
+     <img src="images/figurine2.png" width="1900">
+    </td>
+  </tr>
   <tr>
     <td style="word-wrap: break-word;">
 Prompt: Realistic style cartoon group selfie detailed generation description:
