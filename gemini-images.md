@@ -63,7 +63,7 @@ Full of youthful vitality, with intimate character interaction, giving a strong 
 Realistic cinematic quality, but the characters retain their vibrant cartoon colors and unique charm.
     </td>
     <td>
-      <img src="images/sample3.png" alt="Reading Nook" width="300">
+      <img src="images/disney.jpg" alt="Reading Nook" width="1900">
     </td>
   </tr>
 
