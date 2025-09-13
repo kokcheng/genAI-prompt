@@ -106,3 +106,6 @@ Aspect ratio: 2:3, photorealistic, cinematic film-quality scene.
     </td>
     <td>
     <img src="images/gundam.jpg" width="1900">
+    </td>
+  </tr>
+</table>
