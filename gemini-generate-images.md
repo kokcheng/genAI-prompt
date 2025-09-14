@@ -1,6 +1,6 @@
 <h1>🎨 Gemini Prompt Samples</h1>
 
-<p>This page showcases example prompts and their corresponding generated images using the <strong>Gemini app</strong>. Each row contains the full prompt alongside the generated output image. These photos are AI-generated.</p>
+<p>This page showcases example prompts and their corresponding generated images using the <strong>Gemini app</strong>. Each row contains the full prompt alongside the generated output image.</p>
 
 <h2>🖼 Reference Images for Prompt Generation</h2>
 
