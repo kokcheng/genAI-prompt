@@ -9,8 +9,8 @@ It also includes useful resources for learning and improving your prompting skil
 
 - [Gemini: Edit Images](./gemini-edit-images.md)  
 - [Gemini: Generate Images](./gemini-generate-images.md)  
-- [Resources](./resources.md) – curated links to other useful prompting guides
-
+- Resources - curated links to other useful prompting guides
+Visit [OpenAI](https://www.openai.com) 
 ---
 
 ## 💡 Purpose
