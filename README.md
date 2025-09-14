@@ -1,12 +1,23 @@
-# 🎨 Prompt Samples for Gemini Image Generation
+# Prompting Techniques & Samples
 
-This page showcases example prompts and their corresponding generated images using the **Gemini app**.  
-Each row contains a sample prompt alongside the output image.
+This repository is a collection of **prompting techniques and samples** to help you explore and practice effective prompt design.  
+It also includes useful resources for learning and improving your prompting skills.
 
 ---
 
-| Prompt | Sample Image |
-|--------|--------------|
-| A serene Japanese garden with cherry blossoms in full bloom, a small pond reflecting the trees, and soft golden sunset light. | <img src="images/sample1.png" alt="Japanese Garden" width="300"/> |
-| A futuristic city skyline at night with neon lights, flying cars, and a cyberpunk atmosphere. | <img src="images/sample2.png" alt="Cyberpunk City" width="300"/> |
-| A cozy reading nook with a cat sleeping on a stack of books, warm lamp light, and a rainy window in the background. | <img src="images/sample3.png" alt="Reading Nook" width="300"/> |
+## 📂 Contents
+
+- [Gemini: Edit Images](./gemini-edit-images.md)  
+- [Gemini: Generate Images](./gemini-generate-images.md)  
+- [Resources](./resources.md) – curated links to other useful prompting guides
+
+---
+
+## 💡 Purpose
+
+This space is intended for:
+- Sharing practical prompting samples
+- Documenting techniques for image editing and generation
+- Collecting resources to deepen understanding of prompting
+
+Feel free to explore, contribute, and adapt the samples for your own projects!
