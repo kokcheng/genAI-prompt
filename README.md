@@ -10,7 +10,7 @@ It also includes useful resources for learning and improving your prompting skil
 - [Gemini: Edit Images](./gemini-edit-images.md)  
 - [Gemini: Generate Images](./gemini-generate-images.md)  
 - Resources - curated links to other useful prompting guides
-Visit [OpenAI](https://www.openai.com) 
+  - Visit [Nano Banana Samples](https://github.com/JimmyLv/awesome-nano-banana) 
 ---
 
 ## 💡 Purpose
