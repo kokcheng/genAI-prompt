@@ -4,7 +4,7 @@
 
 <h2>🖼 Reference Images for Prompt Generation</h2>
 
-<p>The following 3 images were used together with the prompts below to generate the sample images.</p>
+<p>The following 3 images were used together with the prompts below to generate the sample images. Thees images were AI generated.</p>
 
 <table>
   <tr>
