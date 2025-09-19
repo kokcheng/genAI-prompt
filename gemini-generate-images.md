@@ -128,6 +128,14 @@ Aspect ratio: 2:3, photorealistic, cinematic film-quality scene.
       <img src="images/gundam3.jpg" width="1900">
     </td>
   </tr>
+   <tr>
+    <td style="word-wrap: break-word;">
+一张超现实主义的照片，一位身着军装、戴着飞行员墨镜的男子（见图）随意地坐在一架巨大的、饱经战火的RX-78-2高达的右肩上。高达锈迹斑斑，留下了激烈战斗的痕迹。场景以低角度拍摄，景深较浅，聚焦于男子。背景是一座工业建筑，映衬着黄金时段的明亮天空。灯光效果戏剧化，极具电影感。杰作，超现实主义，照片级写实，8K分辨率。
+    </td>
+    <td>
+    <img src="images/gundam3.jpg" width="1900">
+    </td>
+  </tr>
   <tr>
     <td style="word-wrap: break-word;">
 Generate avatars of this person with 9 different professional styles 3x3: extreme happiness, shocked, furious anger, crying dramatically, evil smirk, confused, completely calm, terrified, blank face. Clean white studio background, cinematic lighting. Change my outfit is black t-shirt. Label each expression. 
