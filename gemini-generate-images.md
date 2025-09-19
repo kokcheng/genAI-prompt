@@ -160,4 +160,12 @@ Create a hyper realistic 8K surreal cinematic selfie moment at the entrance of a
     <img src="images/celebrity.jpg" width="1900">
     </td>
   </tr>
+    <tr>
+    <td style="word-wrap: break-word;">
+Ultra-realistic 8K, 4:5 ratio, cinematic 3D CGI family photo. A man (based on the uploaded photo) wearing a varsity jacket, skinny jeans, and Jordan shoes, sitting on green grass in a Japanese suburban park under cherry blossom trees. Surrounding him are Nobita, Doraemon, Damulag (Gian), Suneo, and Shizuka, all smiling happily together, posed like a family picture. Playground structures are softly blurred in the background for depth of field. Lighting is natural daylight with a soft cinematic lens flare, ISO DSLR shot, mm lens effect for realism. The composition is warm, wholesome, and joyful, capturing the bond of friendship like a true family portrait.
+    </td>
+    <td>
+    <img src="images/doraemon.png" width="1900">
+    </td>
+  </tr>
 </table>
