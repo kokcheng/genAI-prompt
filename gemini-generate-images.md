@@ -168,4 +168,13 @@ Ultra-realistic 8K, 4:5 ratio, cinematic 3D CGI family photo. A man (based on th
     <img src="images/doraemon.png" width="1900">
     </td>
   </tr>
+    </tr>
+    <tr>
+    <td style="word-wrap: break-word;">
+The central figure, extracted from the uploaded image, is rendered in full, vibrant photorealistic color and sharp detail. They are dramatically lit to powerfully stand out. The background is an intricately detailed, multi-panel, black and white comic strip, entirely wordless and filled with humorous, exaggerated narratives directly featuring the central figure. These comic panels should not only depict the subject in funny, light-hearted, or slightly absurd scenarios, but also seamlessly integrate the central figure into the surrounding comic world. The colorful main subject should appear as if they are an integral part of this dynamic, monochromatic comic reality, perhaps 'stepping out' or 'frozen within' a specific comic panel, with their pose and expression directly interacting with the surrounding black and white narrative. The comic panels are drawn in a classic, high-contrast comic book style with bold lines, and creatively arranged to create a cohesive and engaging narrative backdrop, strongly linking the vibrant figure to the detailed monochrome comic environment.
+    </td>
+    <td>
+    <img src="images/comic.png" width="1900">
+    </td>
+  </tr>
 </table>
