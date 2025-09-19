@@ -194,7 +194,7 @@ A surreal, ultra-realistic artwork of [the person in the uploaded picture]. Both
     <td>
     <img src="images/bottle.png" width="1900">
     <br/>
-    <img src="images/bottl2.png" width="1900">
+    <img src="images/bottle2.png" width="1900">
     </td>
   </tr>
 </table>
