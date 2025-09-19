@@ -160,7 +160,7 @@ Create a hyper realistic 8K surreal cinematic selfie moment at the entrance of a
     <img src="images/celebrity.jpg" width="1900">
     </td>
   </tr>
-    <tr>
+  <tr>
     <td style="word-wrap: break-word;">
 Ultra-realistic 8K, 4:5 ratio, cinematic 3D CGI family photo. A man (based on the uploaded photo) wearing a varsity jacket, skinny jeans, and Jordan shoes, sitting on green grass in a Japanese suburban park under cherry blossom trees. Surrounding him are Nobita, Doraemon, Damulag (Gian), Suneo, and Shizuka, all smiling happily together, posed like a family picture. Playground structures are softly blurred in the background for depth of field. Lighting is natural daylight with a soft cinematic lens flare, ISO DSLR shot, mm lens effect for realism. The composition is warm, wholesome, and joyful, capturing the bond of friendship like a true family portrait.
     </td>
@@ -168,13 +168,22 @@ Ultra-realistic 8K, 4:5 ratio, cinematic 3D CGI family photo. A man (based on th
     <img src="images/doraemon.png" width="1900">
     </td>
   </tr>
-    </tr>
+  </tr>
     <tr>
     <td style="word-wrap: break-word;">
 The central figure, extracted from the uploaded image, is rendered in full, vibrant photorealistic color and sharp detail. They are dramatically lit to powerfully stand out. The background is an intricately detailed, multi-panel, black and white comic strip, entirely wordless and filled with humorous, exaggerated narratives directly featuring the central figure. These comic panels should not only depict the subject in funny, light-hearted, or slightly absurd scenarios, but also seamlessly integrate the central figure into the surrounding comic world. The colorful main subject should appear as if they are an integral part of this dynamic, monochromatic comic reality, perhaps 'stepping out' or 'frozen within' a specific comic panel, with their pose and expression directly interacting with the surrounding black and white narrative. The comic panels are drawn in a classic, high-contrast comic book style with bold lines, and creatively arranged to create a cohesive and engaging narrative backdrop, strongly linking the vibrant figure to the detailed monochrome comic environment.
     </td>
     <td>
     <img src="images/comic.png" width="1900">
+    </td>
+  </tr>
+  </tr>
+    <tr>
+    <td style="word-wrap: break-word;">
+A man is sitting on a wooden floor and beside him is appears to be a giant yellow chick bigger than him. On the floor are scattered giant cornseeds. Background is flat grey.
+    </td>
+    <td>
+    <img src="images/chick.png" width="1900">
     </td>
   </tr>
 </table>
