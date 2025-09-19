@@ -133,7 +133,7 @@ Aspect ratio: 2:3, photorealistic, cinematic film-quality scene.
 一张超现实主义的照片，一位身着军装、戴着飞行员墨镜的男子（见图）随意地坐在一架巨大的、饱经战火的RX-78-2高达的右肩上。高达锈迹斑斑，留下了激烈战斗的痕迹。场景以低角度拍摄，景深较浅，聚焦于男子。背景是一座工业建筑，映衬着黄金时段的明亮天空。灯光效果戏剧化，极具电影感。杰作，超现实主义，照片级写实，8K分辨率。
     </td>
     <td>
-    <img src="images/gundam3.jpg" width="1900">
+    <img src="images/gundam4.png" width="1900">
     </td>
   </tr>
   <tr>
