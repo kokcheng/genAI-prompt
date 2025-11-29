@@ -149,9 +149,7 @@ output_stickers/
    - Add emoji associations
    - Publish your pack
 
-📌 **Telegram Stickers Bot UI Placeholder**
-
-`<ADD_TELEGRAM_SCREENSHOT_HERE>`
+<img src="images/telegram-sticker.png" alt="Reference Image 1" width="500">
 
 ### 📱 4. Import Stickers into WhatsApp
 
