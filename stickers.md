@@ -137,6 +137,8 @@ output_stickers/
  └── part_16.png
 ```
 
+<img src="images/sample1-parts.png" alt="Reference Image 1" width="600">
+
 ### 📲 3. Import Stickers into Telegram
 
 1. Open Telegram
