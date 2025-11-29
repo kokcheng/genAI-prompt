@@ -164,7 +164,4 @@ WhatsApp now allows direct sticker creation.
 5. Add text / crop / background removal
 6. Save to your sticker pack
 
-📌 **WhatsApp Sticker Creation UI Placeholder**
-
-`<ADD_WHATSAPP_SCREENSHOT_HERE>`
 
