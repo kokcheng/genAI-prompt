@@ -15,8 +15,20 @@ Each sticker character should be placed within a circular background, and the 16
 
 
 ### 👉 Generated Sticker Sheet  
-*(Insert your generated 2048×2048 image here)*  
-`<ADD_YOUR_GENERATED_IMAGE_HERE>`
+<table>
+  <tr>
+    <th>Original Image</th>
+    <th>Generated Image</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/sample1.png" alt="Reference Image 1" width="250">
+    </td>
+    <td>
+      <img src="images/sample1-sticker.png" alt="Reference Image 2" width="250">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -114,15 +126,15 @@ def split_image(input_image, output_folder, cols=4, rows=4):
 
 # Example usage
 if __name__ == '__main__':
-    split_image('bh2.png', 'bh2', cols=4, rows=4)
+    split_image('sample1.png', 'output_stickers', cols=4, rows=4)
 ```
 This will create:
 ```
 output_stickers/
- ├── sticker_1.png
- ├── sticker_2.png
+ ├── part_01.png
+ ├── part_02.png
  ├── ...
- └── sticker_16.png
+ └── part_16.png
 ```
 
 ### 📲 3. Import Stickers into Telegram
