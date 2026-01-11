@@ -9,6 +9,8 @@ This guide explains how to generate a 4×4 sticker sheet using **Gemini**, split
 Use the following prompt in **Google Gemini** (or any AI image generator) to create your sticker sheet:
 
 Please use the characters from the attached image to create 16 chibi-style, colorful LINE stickers. The stickers should be diverse, featuring various everyday actions and cool expressions or phrases.
+The sticker set should include a variety of poses and expressions, incorporating common everyday actions and cool or catchy phrases people would typically use.
+Include stickers for greetings, showing care/concern, and similar daily interactions.
 
 Each sticker character should be placed within a circular background, and the 16 designs must be arranged in a 4×4 grid. The final image should be 2048 × 2048 pixels, with equal white space around each sticker. Ensure that each character is easy to separate into 16 individual images after generation, and that the overall canvas has equal width and height.
 
